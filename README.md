@@ -1,62 +1,59 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="600" alt="Spider-Man Gif"/>
 
-  # 🕸️ Your Friendly Neighborhood Developer 🕸️
-  
-  ### ¡Hola! Soy Miguel Alejandro Núñez Dávila (aka Mamba04n)
-  
-  *“Con un gran código, viene una gran responsabilidad.”*
+# 🕸️ Miguel Alejandro Núñez Dávila
+### Software Developer | Backend & Systems Engineering
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=Tejiendo+sistemas+escalables+y+robustos;Sentido+ar%C3%A1cnido+para+código+limpio;Friendly+Neighborhood+Developer)](https://git.io/typing-svg)
+
+*“Agilidad en el código, responsabilidad en la arquitectura.”*
+
 </div>
 
 ---
 
-### 🕷️ Sobre Mí (Peter Parker de día, Developer de noche)
-- 🔭 Trabajando actualmente en **Nando Grills** (Sistema para Restaurante) y **Quantum Soluciones** (ERP/CRM).
-- 🌱 Estudiante de **Ingeniería de Sistemas (UNI)** y desarrollador autodidacta.
-- 💻 Mi enfoque principal es el **Desarrollo Backend** y la creación de APIs escalables con **PHP & Laravel**.
-- 🎓 Completé recientemente **CS50x: Introduction to Computer Science** (Harvard).
-- ⚡ Dato curioso: Tengo reflejos de sentido arácnido para cazar y aplastar *bugs* en el código.
+### 🕷️ Identidad & Enfoque
+
+Soy estudiante de **Ingeniería de Sistemas (UNI)** y un desarrollador enfocado en la construcción de soluciones empresariales, arquitecturas backend y bases de datos relacionales. 
+
+Mi filosofía de desarrollo se basa en la agilidad, la precisión y la mejora continua. Al igual que un héroe urbano conoce cada rincón de su ciudad, me especializo en conocer a fondo el ecosistema **PHP y Laravel**, asegurando que cada sistema que construyo sea seguro, modular y altamente eficiente.
+
+- 🏙️ **Patrullando los servidores:** Actualmente desarrollando **Nando Grills** (Sistema de Gestión Gastronómica) y escalando **Quantum Soluciones** (ERP/CRM).
+- ⚡ **Sentido Arácnido activo:** Rápida asimilación de nuevas tecnologías y resolución de problemas complejos.
+- 🎓 **Entrenamiento continuo:** Recientemente completé **CS50x: Introduction to Computer Science** por la Universidad de Harvard.
 
 ---
 
-### 🕸️ Mis Lanzarredes (Tech Stack)
+### 🕸️ Arsenal Tecnológico
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,html,css,tailwind,git,github,vite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,html,css,tailwind,git,github,vite&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 Sentido Arácnido (GitHub Stats)
+### 📊 Radar de Actividad (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamba04n&show_icons=true&theme=tokyonight&hide_border=true&title_color=E23636&icon_color=5058A8&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamba04n&theme=tokyonight&hide_border=true&fire=E23636&ring=5058A8&currStreakNum=ffffff" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamba04n&layout=compact&theme=tokyonight&hide_border=true&title_color=E23636&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamba04n&show_icons=true&theme=tokyonight&hide_border=true&title_color=E23636&icon_color=5058A8&text_color=8B949E&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamba04n&theme=tokyonight&hide_border=true&fire=E23636&ring=5058A8&currStreakNum=ffffff&bg_color=0D1117" width="48%" />
 </div>
 
 ---
 
-### 🦸‍♂️ Conecta conmigo
+### 🦸‍♂️ Conecta Conmigo
+
+Ya sea para hablar de código, arquitecturas MVC o tu próxima gran idea, mi comunicador siempre está encendido:
 
 <div align="center">
   <a href="mailto:mn513819@gmail.com">
     <img src="https://img.shields.io/badge/Email-E23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Mamba04n">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<br>
-
 <div align="center">
+  <br>
   <img src="https://profile-counter.glitch.me/Mamba04n/count.svg" alt="Profile Views" />
 </div>
