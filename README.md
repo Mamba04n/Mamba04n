@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/10hzvF9FTulEEg/giphy.gif" width="400" style="border-radius:15px;" alt="Spider-Man"/>
+  <img src="https://media.tenor.com/uR2T8B0v9QAAAAAC/spiderman-pixel.gif" width="100" alt="Spider-Man Sprite"/>
   
-  <br>
+  <br><br>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=Miguel+Alejandro+Núñez+Dávila;Software+Developer+|+Backend;Sentido+ar%C3%A1cnido+para+código+limpio)](https://git.io/typing-svg)
 
@@ -12,11 +12,9 @@
 
 ### 🕷️ Identidad & Enfoque
 
-Soy estudiante de **Ingeniería de Sistemas (UNI)** y desarrollador backend. Mi filosofía se basa en la agilidad, la precisión y la mejora continua. Al igual que un héroe urbano conoce cada rincón de su ciudad, me especializo en conocer a fondo **PHP y Laravel**.
+Soy estudiante de **Ingeniería de Sistemas (UNI)** y desarrollador backend. Mi filosofía se basa en la agilidad, la precisión y la mejora continua. Al igual que un héroe urbano conoce cada rincón de su ciudad, me especializo en conocer a fondo **PHP y Laravel**. 
 
-- 🏙️ **Desarrollando:** Nando Grills (Sistema Gastronómico) y Quantum Soluciones (ERP/CRM).
-- ⚡ **Sentido Arácnido:** Resolución rápida de problemas complejos y optimización de bases de datos.
-- 🎓 **Entrenamiento:** CS50x por la Universidad de Harvard.
+Mi "sentido arácnido" se enfoca en resolver problemas técnicos complejos, diseñar bases de datos relacionales eficientes y escribir código modular, limpio y altamente escalable.
 
 ---
 
