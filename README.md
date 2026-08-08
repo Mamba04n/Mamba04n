@@ -48,7 +48,4 @@ Mi "sentido arácnido" se enfoca en resolver problemas técnicos complejos, dise
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Mamba04n&color=E23636&style=flat-square" alt="Profile Views" />
-</div>
+
