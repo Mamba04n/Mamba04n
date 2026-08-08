@@ -26,14 +26,7 @@ Mi "sentido arácnido" se enfoca en resolver problemas técnicos complejos, dise
   </a>
 </div>
 
----
 
-### 📊 Radar de Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamba04n&show_icons=true&theme=tokyonight&hide_border=true&title_color=E23636&icon_color=5058A8&text_color=8B949E&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamba04n&theme=tokyonight&hide_border=true&fire=E23636&ring=5058A8&currStreakNum=ffffff&bg_color=0D1117" width="48%" />
-</div>
 
 ---
 
