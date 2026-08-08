@@ -26,7 +26,42 @@ Mi "sentido arácnido" se enfoca en resolver problemas técnicos complejos, dise
   </a>
 </div>
 
+---
 
+### 🕸️ Últimas Misiones (Proyectos Destacados)
+
+<table bordercolor="#1e1e1e">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Quantum Soluciones</h3>
+      <p align="center"><i>ERP / CRM & Storefront</i></p>
+      <p>Sistema empresarial centralizado diseñado para optimizar procesos comerciales, con una interfaz responsiva y endpoints REST seguros.</p>
+      <div align="center">
+        <code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>Livewire</code>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍔 Nando Grills</h3>
+      <p align="center"><i>Sistema de Gestión Gastronómica</i></p>
+      <p>Plataforma orientada a digitalizar y agilizar los procesos operativos, administrativos y de atención al cliente en el restaurante.</p>
+      <div align="center">
+        <code>PHP</code> <code>Laravel</code> <code>JavaScript</code> <code>Tailwind</code>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Historial de Actividad (GitHub Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamba04n/Mamba04n/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamba04n/Mamba04n/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamba04n/Mamba04n/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
