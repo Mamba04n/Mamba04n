@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/uR2T8B0v9QAAAAAC/spiderman-pixel.gif" width="100" alt="Spider-Man Sprite"/>
+  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="300" style="border-radius:15px;" alt="Spider-Man"/>
   
   <br><br>
   
@@ -50,5 +50,5 @@ Mi "sentido arácnido" se enfoca en resolver problemas técnicos complejos, dise
 
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/Mamba04n/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mamba04n&color=E23636&style=flat-square" alt="Profile Views" />
 </div>
