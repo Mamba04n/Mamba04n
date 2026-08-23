@@ -16,6 +16,10 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # A fine-grained token stored as PRIVATE_CONTRIBUTIONS_TOKEN lets
+          # the generator count private activity without exposing repository
+          # names or contribution details in the generated SVG.
+          github_token: ${{ secrets.PRIVATE_CONTRIBUTIONS_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
